@@ -1,2 +1,2 @@
-# angular-nodejs-develop-env
-This is development environment for Angular with NodeJS Backend Project
+# angular-nodejs-eb
+Sample Angular NodeJS project to deploy on Elastic Beanstalk
